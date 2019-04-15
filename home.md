@@ -1,4 +1,6 @@
 <!-- TITLE: Home -->
 <!-- SUBTITLE: A quick summary of Home -->
 
-# Microbiota Labs Wiki
+# Common species of bacteria and fungi in the home environment
+-[Absidia corymbifera](absidia-corymbifera)
+

@@ -6,7 +6,7 @@ Occurrence: Worldwide, in soil, decaying plant matter and composts. Found in car
 
 Medical significance: EFG. 
 
-This species can cause (sub)cutaneous infections, and invasive infections in AIDS patients (de Hoog et al. 2000). 
+This species can cause (sub)cutaneous infections, and invasive infections in AIDS patients [de Hoog et al. 2000](references#hoog-2000). 
 
 Notes: The name Lichtheimia corymbifera has been proposed for this species; however, for practical uses the name A. corymbifera is maintained here.
 

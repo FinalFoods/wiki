@@ -2,4 +2,4 @@
 <!-- SUBTITLE: A quick summary of Fungi List -->
 
 # Common species of fungi in the home environment
--[Acrimonium strictum](fungi-list/acrimonium-strictum)
+-[Acremonium strictum](fungi-list/acremonium-strictum)

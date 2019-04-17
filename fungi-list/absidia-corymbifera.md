@@ -8,7 +8,7 @@ Worldwide, in soil, decaying plant matter and composts. Found in carpet and matt
 ### Medical significance
 Poses an inhalation hazard and a deep skin (dermal) inoculation hazard  for immunocompromised persons.
 
-This species can cause (sub)cutaneous infections, and invasive infections in AIDS patients [de Hoog et al. 2000](references#hoog-2000). 
+This species can cause sub-cutaneous infections, and invasive infections in AIDS patients [de Hoog et al. 2000](references#hoog-2000). 
 
 ### Safety
 TBD

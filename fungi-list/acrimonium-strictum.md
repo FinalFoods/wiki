@@ -17,4 +17,3 @@ Other names used for *Acrimonium strictum* are *Cephalosporium acremonium*, and 
 	<source src="/uploads/acremonium-strictum.mp3" type="audio/mp3">
 </audio>
 
-[Acremonium Strictum](/uploads/acremonium-strictum.mp3 "Acremonium Strictum")

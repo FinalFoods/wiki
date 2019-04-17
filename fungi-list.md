@@ -2,4 +2,4 @@
 <!-- SUBTITLE: A quick summary of Fungi List -->
 
 # Common species of fungi in the home environment
--[Absidia corymbifera](fungi-list/absidia-corymbifera)
+-[Absidia corymbifera](fungi-list/absidia-corymbifera) 

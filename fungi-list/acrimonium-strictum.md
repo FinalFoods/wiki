@@ -13,4 +13,8 @@ RG1. Of no particular risk, occasionally causing infection in immunocompromised 
 #### Notes
 Other names used for *Acrimonium strictum* are *Cephalosporium acremonium*, and *Sarocladium strictum*.
 
+<audio controls>
+	<source src="/uploads/acremonium-strictum.mp3" type="audio/mp3">
+</audio>
+
 [Acremonium Strictum](/uploads/acremonium-strictum.mp3 "Acremonium Strictum")

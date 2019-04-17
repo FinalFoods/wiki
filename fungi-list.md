@@ -6,4 +6,4 @@
 
 ## Sources
 [MycoCosm](https://genome.jgi.doe.gov/mycocosm/home)
-[Atlas of clinical fungi](http://www.clinicalfungi.org/)
+[Atlas of Clinical Fungi](http://www.clinicalfungi.org/)

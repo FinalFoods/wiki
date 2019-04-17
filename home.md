@@ -11,7 +11,7 @@ Of the over 100,000 described species of fungi, about 100 are known to be of med
 * [Common species of bacteria in the home environment](bacteria-list)
 
 ## Risk Groups
-In the lists in this wiki, the risk group (RG) of each micro-organism are indicated whenever available from a reliable source. Risk Groups are classifications that describe the relative hazard posed by infectious agents or toxins in the laboratory.
+In the lists in this wiki, the risk group (RG) of each micro-organism is indicated whenever available from a reliable source. Risk Groups are classifications that describe the relative hazard posed by infectious agents or toxins in the laboratory.
 
 The [NIH Guidelines](https://www.phe.gov/s3/BioriskManagement/biosafety/Pages/Risk-Groups.aspx) defines the risk groups as:
 

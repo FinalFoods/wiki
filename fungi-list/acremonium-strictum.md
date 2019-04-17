@@ -13,7 +13,7 @@ This species is a common fungal endophyte (which lives inside another plant), as
 ### Risk group
 RG1. Of no particular risk, occasionally causing infection in immunocompromised humans.
 
-#### Notes
+### Notes
 Other names used for *Acremonium strictum* are *Cephalosporium acremonium*, and *Sarocladium strictum*.
 
 <audio controls>

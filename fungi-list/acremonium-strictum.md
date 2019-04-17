@@ -1,5 +1,4 @@
 <!-- TITLE: Acremonium Strictum -->
-<!-- SUBTITLE: A quick summary of Acremonium Strictum -->
 
 # Acremonium strictum
 ### Occurrence

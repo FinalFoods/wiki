@@ -4,7 +4,7 @@
 -[Acremonium strictum](fungi-list/acremonium-strictum)
 -[Alternaria alternata](fungi-list/alternaria-alternate)
 -[Asperigillus flavus](/fungi-list/aspergillus-flavus)
--[Asperigillus fumigatus](/fungi-list/aspergillus-fumigatus)
+-[Asperigillus fumigatus](/fungi-list/asperigillus-fumigatus)
 
 ## Sources
 [MycoCosm](https://genome.jgi.doe.gov/mycocosm/home)

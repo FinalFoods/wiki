@@ -3,8 +3,7 @@
 # Asperigillus fumigatus
 
 ### Occurrence
-
-![Acremonium Strictum](/uploads/acremonium-strictum.jpg "Acremonium Strictum") 
+![Aspergillus Fumigatus](/uploads/aspergillus-fumigatus.jpg "Aspergillus Fumigatus")
 
 *Asperigillus fumigatus* 
 
@@ -13,9 +12,13 @@ is common species found in carpet and mattress dust, and present on damp or wet 
 This species is a common fungal endophyte (which lives inside another plant), associated with a variety of grasses as well as the roots of maize plants and mangrove trees. 
 
 ### Risk group RG2
-*Asperigillus fumigatus* 
+*Asperigillus fumigatus*  is the main agent of aspergillosis in patients with impaired natural immunity. The species causes a typical inhalation mycosis, whereby colonization and invasion are generally accompanied by allergic reactions. Particularly low-level white cells patients, transplant patients, patients under intensive care, patients with chronic liver disease and patients with chronic granulomatous disease are at risk, but  cases are also reported in patients without apparent underlying disease.
 
-is an agent of [hyalohyphomycosis](https://en.wikipedia.org/wiki/Hyalohyphomycosis) and has been identified as an increasingly frequent human pathogen in immunosuppressed individuals, causing localized, disseminated and invasive infections. Although extremely rare,  *Acremonium strictum* can infect immunocompetent individuals, as well as neonates.
+Dissemination may occur in apparently healthy individuals, but more often after chronic lung disorders with steroid treatment. Chronic pulmonary aspergillosis (CPA) often occurs among patients with residual tuberculosis or with <50 CD4 cells⋅µL-1, while those with CD4 <100 cells⋅µL-1 are at risk . Extracorporal oxygenation is a risk factor. Also mild asthma can be a risk factor. Disseminated infections in patients without apparent immune disorder are extremely rare  
+
+The species occurs commonly in external ears and is one of the prevalent agents of fungal sinusitis, particularly in North America. Sinusitis may be allergic, lead to fungus balls. In the latter case, complication may occur which may be cranial and life-threatening. Also endocarditis has been reported in patients without risk factors. However, infection may have taken place during earlier periods of surgery, steroid use, application of antibiotics or other debilitating factors such as diabetes, while underlying diseases may initially be inapparent. Due to the large-scale use of azoles in agriculture, azole-resistant clones are emerging in Europe and Asia. Nosocomial infections in immunocompromised patients may be due to hygiene problems or construction works.
+
+The species natural occurrence is in rotten plant material at higher temperatures; it is abundant in the air during biological waste treatment.
 
 ### Notes
 Other names used for *Asperigillus fumigatus* are 

@@ -5,11 +5,11 @@
 ### Occurrence
 ![Aspergillus Fumigatus](/uploads/aspergillus-fumigatus.jpg "Aspergillus Fumigatus")
 
-*Asperigillus fumigatus* 
+*Asperigillus fumigatus* is widespread in nature and it is typically found in soil and decaying organic matter, such as compost heaps, where it plays an essential role in carbon and nitrogen recycling. Colonies of the fungus produce from conidiophores; thousands of minute grey-green conidia (2–3 μm) which readily become airborne. *Asperigillus fumigatus* occurs in areas with widely different climates and environments.
 
-is common species found in carpet and mattress dust, and present on damp or wet (acrylic painted) walls, and in cellulose-based building materials (e.g., ceiling tiles, cardboard, wood materials, and drywall), particularly in wet or humid environments. Also found in humidifier water; exposed wood.
+The fungus is capable of growth at 37 °C or 99 °F (normal human body temperature), and can grow at temperatures up to 50 °C or 122 °F, with conidia surviving at 70 °C or 158 °F conditions it regularly encounters in self-heating compost heaps. Its spores are ubiquitous in the atmosphere, and everybody inhales an estimated several hundred spores each day; typically, these are quickly eliminated by the immune system in healthy individuals. 
 
-This species is a common fungal endophyte (which lives inside another plant), associated with a variety of grasses as well as the roots of maize plants and mangrove trees. 
+*Aspergillus fumigatus* grown on certain building materials can produce mycotoxins.
 
 ### Risk group RG2
 *Asperigillus fumigatus*  is the main agent of aspergillosis in patients with impaired natural immunity. The species causes a typical inhalation mycosis, whereby colonization and invasion are generally accompanied by allergic reactions. Particularly low-level white cells patients, transplant patients, patients under intensive care, patients with chronic liver disease and patients with chronic granulomatous disease are at risk, but  cases are also reported in patients without apparent underlying disease.

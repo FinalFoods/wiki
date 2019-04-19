@@ -21,13 +21,6 @@ The species occurs commonly in external ears and is one of the prevalent agents 
 The species natural occurrence is in rotten plant material at higher temperatures; it is abundant in the air during biological waste treatment.
 
 ### Notes
-Other names used for *Asperigillus fumigatus* are 
 
-*Cephalosporium acremonium*, and *Sarocladium strictum*.
-
-<audio controls>
-	<source src="/uploads/acremonium-strictum.mp3" type="audio/mp3">
-</audio>
-
-Wikipedia: [Asperigillus fumigatus](https://en.wikipedia.org/wiki/Acremonium_strictum)
+Wikipedia: [Asperigillus fumigatus](https://en.wikipedia.org/wiki/Aspergillus_fumigatus)
 

@@ -27,6 +27,21 @@
 -[Candida tropicalis](/fungi-list/candida-tropicalis)
 -[Cladophialophora arxii](/fungi-list/cladophialophora-arxii)
 -[Cladophialophora bantiana](/fungi-list/cladophialophora-bantiana)
+-[Cladophialophora carrionii](/fungi-list/cladophialophora-carrionii)
+-[Cladophialophora devriesii](/fungi-list/cladophialophora-devriesii)
+-[Cladophialophora emmonsii](/fungi-list/cladophialophora-emmonsii)
+-[Cladophialophora modesta](/fungi-list/cladophialophora-modesta)
+-[Cladophialophora samoensis](/fungi-list/cladophialophora-samoensis)
+-[Coccidioides immitis](/fungi-list/coccidioides-immitis)
+-[Coccidioides posadasii](/fungi-list/coccidioides-posadasii)
+-[Cryptococcus bacillisporus](/fungi-list/cryptococcus-bacillisporus)
+-[Cryptococcus decagattii](/fungi-list/cryptococcus-decagattii)
+-[Cryptococcus deneoformans](/fungi-list/cryptococcus-deneoformans)
+-[Cryptococcus deuterogattii](/fungi-list/cryptococcus-deuterogattii)
+-[Cryptococcus gattii](/fungi-list/cryptococcus-gattii)
+-[Cryptococcus neoformans](/fungi-list/cryptococcus-neoformans)
+-[Cryptococcus tetragattii](/fungi-list/cryptococcus-tetragattii)
+
 
 ## Sources
 [MycoCosm](https://genome.jgi.doe.gov/mycocosm/home)

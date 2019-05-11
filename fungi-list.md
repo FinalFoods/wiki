@@ -9,6 +9,14 @@
 -[Arthrocladium fulminans](/fungi-list/arthrocladium-fulminans)
 -[Asperigillus flavus](/fungi-list/aspergillus-flavus)
 -[Asperigillus fumigatus](/fungi-list/asperigillus-fumigatus)
+-[Aspergillus sublatus](/fungi-list/aspergillus-sublatus)
+-[Aspergillus tanneri](/fungi-list/aspergillus-tanneri)
+-[Batrachochytrium salamandrivorans](/fungi-list/batrachochytrium-salamandrivorans)
+-[Blastobotrys chiropterorum](/fungi-list/blastobotrys-chiropterorum)
+-[Blastomyces dermatitidis](/fungi-list/blastomyces-dermatitidis)
+-[Blastomyces gilchristii](/fungi-list/blastomyces-gilchristii)
+-[Blastomyces helicus](/fungi-list/blastomyces-helicus)
+-[Blastomyces parvus](/fungi-list/blastomyces-parvus)
 
 ## Sources
 [MycoCosm](https://genome.jgi.doe.gov/mycocosm/home)

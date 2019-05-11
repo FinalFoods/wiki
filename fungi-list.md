@@ -41,7 +41,7 @@
 -[Cryptococcus gattii](/fungi-list/cryptococcus-gattii)
 -[Cryptococcus neoformans](/fungi-list/cryptococcus-neoformans)
 -[Cryptococcus tetragattii](/fungi-list/cryptococcus-tetragattii)
-
+-[Cyphellophora ludoviensis](/fungi-list/cyphellophora-ludoviensis)
 
 ## Sources
 [MycoCosm](https://genome.jgi.doe.gov/mycocosm/home)

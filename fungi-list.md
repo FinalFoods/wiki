@@ -17,6 +17,16 @@
 -[Blastomyces gilchristii](/fungi-list/blastomyces-gilchristii)
 -[Blastomyces helicus](/fungi-list/blastomyces-helicus)
 -[Blastomyces parvus](/fungi-list/blastomyces-parvus)
+-[Blastomyces percursus](/fungi-list/blastomyces-percursus)
+-[Blastomyces silverae](/fungi-list/blastomyces-silverae)
+-[Candida africana](/fungi-list/candida-africana)
+-[Candida albicans](/fungi-list/candida-albicans)
+-[Candida auris](/fungi-list/candida-auris)
+-[Candida dubliniensis](/fungi-list/candida-dubliniensis)
+-[Candida glabrata](/fungi-list/candida-glabrata)
+-[Candida tropicalis](/fungi-list/candida-tropicalis)
+-[Cladophialophora arxii](/fungi-list/cladophialophora-arxii)
+-[Cladophialophora bantiana](/fungi-list/cladophialophora-bantiana)
 
 ## Sources
 [MycoCosm](https://genome.jgi.doe.gov/mycocosm/home)
